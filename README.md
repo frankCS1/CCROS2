@@ -32,6 +32,10 @@ Visualise using:
 ```bash
 rviz2
 ```
+Check if mapping
+```bash
+ros2 topic echo /map
+```
 
 ---
 
